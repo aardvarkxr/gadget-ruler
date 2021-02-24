@@ -1,0 +1,18 @@
+{
+	"xr_type": "aardvark-gadget@^1.5.1",
+	"name": "Ruler",
+	"icons": [
+		{
+			"src": "models/square_ruler.glb",
+			"type": "model/gltf-binary"
+		}
+	],
+	"aardvark": {
+		"permissions": [
+			"scenegraph"
+		],
+		"browserWidth": 128,
+		"browserHeight": 40,
+		"startAutomatically": false
+	}
+}
